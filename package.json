@@ -1,5 +1,5 @@
 {
-  "name": "chat",
+  "name": "package.json",
   "dependencies": {
     "@prisma/client": "^5.7.1",
     "escape-html": "^1.0.3",
@@ -7,5 +7,13 @@
   },
   "devDependencies": {
     "prisma": "^5.7.1"
-  }
+  },
+  "description": "単語帳アプリのテンプレートです。",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
 }
