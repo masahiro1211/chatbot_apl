@@ -1,3 +1,10 @@
 .app-title {
   color: #ff0000;
+  font-family: 'Arial', sans-serif;
+  font-size: 2em;
+  font-weight: bold;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+  background: linear-gradient(to right, #ff7e5f, #feb47b);
+  padding: 10px;
+  border-radius: 5px;
 }
